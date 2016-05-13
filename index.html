@@ -1,0 +1,30 @@
+﻿<!DOCTYPE HTML>
+<html>
+
+<head>
+	<link rel="stylesheet" href="css/default.css">
+	<title>Laba3</title>
+	<meta charset="utf-8">
+</head>
+
+<body onload="startTime()">
+
+<form>
+	<div style="height:1000px ;" ondblclick="dop()">
+	<input  type="button" value="Создать кнопку" onclick="new_button()">
+	<input type="button" value="Создать текстовое поле" onclick="new_label()">
+	<input type="button" value="Создать список" onclick="new_select()">
+
+	</div>
+	
+</form>
+
+
+<div id="delete"><input type="button" value="Удалить все созданные элементы" onclick="del()"></div>
+<div id="myPlace" ></div>
+<div id="myTime" ></div>
+
+<script src="script.js"></script>
+</body>
+
+</html>
