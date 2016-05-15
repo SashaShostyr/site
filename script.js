@@ -86,3 +86,6 @@ function random(m,n){
 function del(){
 	document.getElementById('myPlace').innerHTML="";
 }
+function del3 (){
+	document.getElementById('myPlace').innerHTML="";
+}
