@@ -89,3 +89,6 @@ function del(){
 function del2(){
 	document.getElementById('myPlace').innerHTML="";
 }
+function del3(){
+	document.getElementById('myPlace').innerHTML="";
+}
