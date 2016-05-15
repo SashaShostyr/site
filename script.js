@@ -95,3 +95,4 @@ function del3(){
 function del3(){
 	document.getElementById('myPlace').innerHTML="";
 }
+ввыаыва
