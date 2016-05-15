@@ -92,3 +92,6 @@ function del2(){
 function del3(){
 	document.getElementById('myPlace').innerHTML="";
 }
+function del3(){
+	document.getElementById('myPlace').innerHTML="";
+}
